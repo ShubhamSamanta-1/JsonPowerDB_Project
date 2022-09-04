@@ -12,7 +12,7 @@ and the form created by me to submit the data in the database.
 ![User Dashboard](Screenshots/Dashboard.PNG?text=User+Dashboard+Here)
 
 ### Database 
-![Databse](Screenshots/Database.PNG?text=User+Dashboard+Here)
+![Database](Screenshots/Database.PNG?text=User+Dashboard+Here)
 
 ### Form 
 ![Form](Screenshots/Form.PNG?text=User+Dashboard+Here)
