@@ -5,7 +5,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 ## Project Description 
 This project is about basics of JsonPowerDB I have implemented 
 CRUD operations in the database provided by Login2Xplore.
-below are some screenshots of the UI/Dashboard provide by Login2Xplore
+Below are some Photos of the UI/Dashboard provide by Login2Xplore
 and the form created by me to submit the data in the database.
 
 ### Dashboard
@@ -21,12 +21,12 @@ and the form created by me to submit the data in the database.
  1. Simplest way to retrieve data in a JSON format.
  2. Schema-free, Simple to use, Nimble and In-Memory database.
  3. It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
- 4.  It is low level (raw) form of data and is also human readable.
- 5.  It helps developers in faster coding, in-turn reduces development cost.
+ 4. It is low level (raw) form of data and is also human readable.
+ 5. It helps developers in faster coding, in-turn reduces development cost.
 
 ## Release History
 
 ### Version 0.0 /04/09/2022
-a. created a form to save employee data in database using bootstrap  \
-b. connecetd tokken using javascript and AJAX.\
-c. used predefined functions of jpdb common.js.
+a. Created a form to save data in database using bootstrap  \
+b. Connecetd token using javascript and AJAX.\
+c. Used predefined functions of jpdb common.js.
