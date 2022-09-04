@@ -9,13 +9,13 @@ below are some screenshots of the UI/Dashboard provide by Login2Xplore
 and the form created by me to submit the data in the database.
 
 ### Dashboard
-![User Dashboard](Dashboard.png?text=User+Dashboard+Here)
+![User Dashboard](Photos/Dashboard.png?text=User+Dashboard+Here)
 
 ### Database 
-![Database](Database.png?text=User+Dashboard+Here)
+![Database](Photos/Database.png?text=User+Dashboard+Here)
 
 ### Form 
-![Form](Form.png?text=User+Dashboard+Here)
+![Form](Photos/Form.png?text=User+Dashboard+Here)
 
 ## Benifits of Using JPDB
  1. Simplest way to retrieve data in a JSON format.
